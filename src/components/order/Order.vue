@@ -214,12 +214,7 @@ export default {
     },
     async showExpress() {
       console.log(123)
-      //    const { data: res } = await this.$http.get('/kuaidi/804909574412544580')
-
-      //   if (res.meta.status !== 200) {
-      //     return this.$message.error('获取物流进度失败！')
-      //   }
-      //   console.log(res);
+     
 
       //   const { data: res } = await this.$http.get('/kuaidi/1106975712662')
       //   if (res.meta.status !== 200) {
